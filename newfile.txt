@@ -1,1 +1,1 @@
-Smth
+version 2
